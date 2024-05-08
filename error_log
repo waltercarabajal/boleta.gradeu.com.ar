@@ -1,0 +1,338 @@
+[26-Feb-2024 19:39:31 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 19:39:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:39:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:39:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:39:31 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:39:31 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:39:31 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 19:39:31 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 19:39:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 19:39:39 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 19:39:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:39:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:39:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:39:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:39:39 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:39:39 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 19:39:39 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 19:39:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 19:45:48 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/cobranzas.multiplan.com.ar/conectorgb.inc on line 1
+[26-Feb-2024 19:45:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:45:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:45:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:45:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:45:48 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:45:48 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 24
+[26-Feb-2024 19:45:48 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 27
+[26-Feb-2024 19:45:48 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/cobranzas.multiplan.com.ar/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 31
+[26-Feb-2024 19:45:59 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/cobranzas.multiplan.com.ar/conectorgb.inc on line 1
+[26-Feb-2024 19:45:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:45:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:45:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:45:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:45:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:45:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 24
+[26-Feb-2024 19:45:59 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 27
+[26-Feb-2024 19:45:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/cobranzas.multiplan.com.ar/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 31
+[26-Feb-2024 19:46:01 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/cobranzas.multiplan.com.ar/conectorgb.inc on line 1
+[26-Feb-2024 19:46:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:46:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:46:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:46:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:46:01 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 22
+[26-Feb-2024 19:46:01 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 24
+[26-Feb-2024 19:46:01 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 27
+[26-Feb-2024 19:46:01 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/cobranzas.multiplan.com.ar/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/cobranzas.multiplan.com.ar/index.php on line 31
+[26-Feb-2024 19:57:20 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 19:57:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:57:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:57:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:57:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:57:20 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:57:20 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 19:57:20 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 19:57:20 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 19:58:52 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 19:58:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:58:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:58:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:58:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:58:52 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 19:58:52 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 19:58:52 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 19:58:52 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:08:39 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:08:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:08:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:08:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:08:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:08:39 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:08:39 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:08:39 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:08:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:08:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:08:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:08:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:08:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:08:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:08:51 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:08:51 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:08:51 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:08:51 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:17:57 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:17:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:17:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:17:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:17:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:17:57 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:17:57 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:17:57 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:17:57 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:18:02 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:18:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:02 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:02 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:18:02 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:18:02 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:18:06 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:18:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:06 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:06 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:06 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:18:06 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:18:06 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:18:11 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:18:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:11 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:11 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:18:11 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:18:11 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:18:17 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:18:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:17 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:17 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:18:17 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:18:17 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:18:21 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:18:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:18:21 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:18:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:18:23 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:18:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:23 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:23 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:18:23 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:18:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:18:27 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:18:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:27 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:27 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:18:27 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:18:27 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:18:56 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:18:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:56 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:18:56 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:18:56 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:18:56 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[26-Feb-2024 20:37:10 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/sioninve/gradeu.com.ar/boletas/conectorgb.inc on line 1
+[26-Feb-2024 20:37:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: host_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:37:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:37:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pass_db in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:37:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: db_name in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:37:10 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'sioninve'@'localhost' (using password: NO) in /home/sioninve/gradeu.com.ar/boletas/index.php on line 22
+[26-Feb-2024 20:37:10 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/sioninve/gradeu.com.ar/boletas/index.php on line 24
+[26-Feb-2024 20:37:10 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[26-Feb-2024 20:37:10 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[27-Feb-2024 09:05:55 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.1.33. in /home/sioninve/gradeu.com.ar/boletas/vendor/composer/platform_check.php on line 24
+[27-Feb-2024 10:20:44 America/Argentina/Buenos_Aires] PHP Notice:  Trying to get property of non-object in /home/sioninve/gradeu.com.ar/boletas/index.php on line 27
+[27-Feb-2024 10:20:44 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sioninve/gradeu.com.ar/boletas/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/sioninve/gradeu.com.ar/boletas/index.php on line 31
+[27-Feb-2024 10:24:00 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.1.33. in /home/sioninve/gradeu.com.ar/boletas/vendor/composer/platform_check.php on line 24
+[27-Mar-2024 21:18:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'sioninve_wg'@'wo48.wiroos.host' (using password: YES) in /home/sioninve/boleta.gradeu.com.ar/index.php:22
+Stack trace:
+#0 /home/sioninve/boleta.gradeu.com.ar/index.php(22): mysqli->__construct()
+#1 {main}
+  thrown in /home/sioninve/boleta.gradeu.com.ar/index.php on line 22
+[27-Mar-2024 21:20:37 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'idSuscripcion_' in 'where clause' in /home/sioninve/boleta.gradeu.com.ar/index.php:24
+Stack trace:
+#0 /home/sioninve/boleta.gradeu.com.ar/index.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/sioninve/boleta.gradeu.com.ar/index.php on line 24
+[09-Apr-2024 15:32:18 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/sioninve/boleta.gradeu.com.ar/index.php:28
+Stack trace:
+#0 /home/sioninve/boleta.gradeu.com.ar/index.php(28): mysqli->__construct()
+#1 {main}
+  thrown in /home/sioninve/boleta.gradeu.com.ar/index.php on line 28
+[24-Apr-2024 17:28:56 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[24-Apr-2024 17:30:29 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[24-Apr-2024 19:51:03 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[25-Apr-2024 13:35:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[25-Apr-2024 13:36:43 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[25-Apr-2024 14:03:43 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[25-Apr-2024 20:38:21 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[25-Apr-2024 23:23:02 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[25-Apr-2024 23:25:05 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[25-Apr-2024 23:25:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[25-Apr-2024 23:29:47 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 08:56:57 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 08:57:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:16:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:19:52 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:21:01 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:23:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:25:11 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:33:30 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:34:36 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:35:33 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:35:57 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:38:06 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:38:49 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:39:00 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:39:07 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:39:42 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:40:50 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:41:04 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:42:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:42:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:42:55 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 09:50:30 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 10:47:34 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 10:48:26 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 10:50:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 10:56:14 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 10:57:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 10:58:20 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 10:58:45 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 11:09:24 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 11:11:14 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 11:11:48 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 11:12:55 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 11:17:02 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 11:18:28 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 11:34:34 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 11:35:28 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 11:57:30 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 12:11:20 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 12:38:47 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 12:39:37 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 13:53:12 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 13:57:27 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 14:03:43 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 14:07:13 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 14:23:49 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 18:11:50 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 18:40:12 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 18:46:09 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[26-Apr-2024 18:59:40 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[06-May-2024 20:00:43 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[06-May-2024 20:28:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 07:51:07 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 07:51:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 07:51:45 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 07:51:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 07:52:11 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 07:52:33 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 08:06:07 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 08:08:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 16:50:14 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 16:50:20 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 16:50:49 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 18:30:03 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 19:47:47 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 21:04:15 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[07-May-2024 23:51:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[08-May-2024 07:37:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[08-May-2024 10:51:36 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[08-May-2024 10:51:57 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[08-May-2024 11:29:25 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[08-May-2024 11:30:37 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[08-May-2024 11:33:42 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[08-May-2024 11:38:08 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[08-May-2024 11:38:16 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[08-May-2024 11:39:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
+[08-May-2024 11:42:58 America/Argentina/Buenos_Aires] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.33. in /home/sioninve/boleta.gradeu.com.ar/vendor/composer/platform_check.php on line 24
